@@ -1,0 +1,7 @@
+Info:Tanzimul Islam,email@example.com,23-53147-3,123456,tongi,30-10-2002,male,Mr x,Mrs y,ab+
+
+Course:intro to programming,csc1201,3
+Course:java,csc1205,3,intro to programming
+Course:math-1,mat1201,3
+
+ProfilePicturePath:C:\Users\Tanzimul Islam\Documents\A\images.jpeg

@@ -1,0 +1,8 @@
+java,csc1205,3,intro to programming
+math-1,mat1201,3
+math-2,mat1205,3,math-1
+database,csc2108,3,java
+algorithms,csc2211,3,data structure
+data structure,csc2106,3,java
+intro to programming,csc1201,3
+physics-1,csc1206,3
